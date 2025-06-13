@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Zettelkasten/Linux File Permissions.md",
+                "file": "3 - Zettelkasten/First bash script.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Linux File Permissions"
+              "title": "First bash script"
             }
           }
         ]
@@ -176,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 287.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,13 +189,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "07c2139a70481271",
+  "active": "ab83ecd9547306b2",
   "lastOpenFiles": [
+    "3 - Zettelkasten/First bash script.md",
+    "3 - Zettelkasten/Linux File Permissions.md",
+    "3 - Zettelkasten/B - Tags/bash.md",
     "Untitled",
     "3 - Zettelkasten/A - Templates/Raw Notes.md",
     "3 - Zettelkasten/A - Templates/General Note.md",
     "3 - Zettelkasten/A - Templates/Academic Note.md",
-    "3 - Zettelkasten/Linux File Permissions.md",
     "3 - Zettelkasten/B - Tags/linux commands.md",
     "3 - Zettelkasten/B - Tags/linux.md",
     "Life Dashboard.md",
